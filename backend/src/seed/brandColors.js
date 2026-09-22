@@ -1,0 +1,21 @@
+// Stylised pack colours used by the product-image generator (not real logos).
+module.exports = {
+  'Royal Canin': { main: '#c8102e', dark: '#8f0b21', accent: '#ffffff', text: '#ffffff' },
+  Whiskas: { main: '#6a2c91', dark: '#4a1d69', accent: '#ffc20e', text: '#ffffff' },
+  'Me-O': { main: '#f26b21', dark: '#c24d0e', accent: '#ffe066', text: '#ffffff' },
+  "Hill's": { main: '#0b63b5', dark: '#084680', accent: '#ffd21f', text: '#ffffff' },
+  Pedigree: { main: '#ffc72c', dark: '#d99a00', accent: '#1d3f8a', text: '#1d3f8a' },
+  Purina: { main: '#e2231a', dark: '#a8150e', accent: '#ffffff', text: '#ffffff' },
+  'Versele-Laga': { main: '#1f7a45', dark: '#145530', accent: '#ff9f1c', text: '#ffffff' },
+  Vitakraft: { main: '#f59e0b', dark: '#c47a00', accent: '#1e4b9b', text: '#1e3a78' },
+  Hagen: { main: '#e4572e', dark: '#b03a18', accent: '#ffffff', text: '#ffffff' },
+  Tetra: { main: '#0a4d9c', dark: '#06336b', accent: '#ffce1f', text: '#ffffff' },
+  Hikari: { main: '#d62839', dark: '#9c1b29', accent: '#ffffff', text: '#ffffff' },
+  Sera: { main: '#2a9d4a', dark: '#1c6e33', accent: '#ffffff', text: '#ffffff' },
+  Oxbow: { main: '#8a5a2b', dark: '#5f3d1b', accent: '#9bd36a', text: '#ffffff' },
+  Trixie: { main: '#0f9fa3', dark: '#0a6f72', accent: '#ffffff', text: '#ffffff' },
+  Beaphar: { main: '#2b8a3e', dark: '#1d6a2d', accent: '#4dabf7', text: '#ffffff' },
+  Kong: { main: '#d9251d', dark: '#9d1610', accent: '#ffc20e', text: '#ffffff' },
+  Ferplast: { main: '#2f6fd0', dark: '#1e4c96', accent: '#ffffff', text: '#ffffff' },
+  PawNest: { main: '#f43f87', dark: '#c21f66', accent: '#8b5cf6', text: '#ffffff' },
+};
