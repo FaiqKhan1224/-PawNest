@@ -1,3 +1,4 @@
+const asyncHandler = require('../../utils/asyncHandler');
 const express = require('express');
 const { protect, adminOnly } = require('../../middleware/auth');
 const upload = require('../../middleware/upload');
