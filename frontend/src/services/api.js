@@ -15,7 +15,9 @@ export class ApiError extends Error {
 }
 
 async function request(path, { method = 'GET', body, params, signal, formData } = {}) {
-  let url = `/api${path}`;
+ const API_BASE = 'https://pawnest-backend.vercel.app';
+
+let url = `${API_BASE}/api${path}`;
   if (params) {
     const qs = new URLSearchParams();
     Object.entries(params).forEach(([key, value]) => {
