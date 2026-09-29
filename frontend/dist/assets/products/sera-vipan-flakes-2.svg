@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+<defs>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".38"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/><stop offset=".75" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".2"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7ebf3"/><stop offset=".45" stop-color="#ffffff"/><stop offset="1" stop-color="#b9c0d0"/></linearGradient>
+
+</defs>
+
+<rect x="24" y="24" width="352" height="340" rx="28" fill="#2a9d4a"/>
+<rect x="24" y="24" width="352" height="340" rx="28" fill="#1c6e33" opacity=".35"/>
+<g opacity=".1"><g transform="translate(257 257) scale(2.031)"><path d="M46 32 L61 19 L61 45 Z" fill="#ffffff" opacity=".8"/><ellipse cx="30" cy="32" rx="20" ry="13" fill="#ffffff"/><path d="M22 20 q8 -9 17 0 z" fill="#ffffff" opacity=".8"/><circle cx="19" cy="29" r="3.2" fill="#fff"/><circle cx="18.4" cy="29" r="1.7" fill="#1b1d4b"/><path d="M30 25 q4 7 0 14 M37 26 q4 6 0 12" stroke="#fff" opacity=".55" fill="none" stroke-width="1.5" stroke-linecap="round"/></g></g>
+<text x="52" y="72" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="15.0" font-weight="700" fill="#ffffff" text-anchor="start" opacity=".85">SERA</text>
+<text x="52" y="112" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="30.0" font-weight="800" fill="#ffffff" text-anchor="start" >VIPAN</text>
+<path d="M52 132 h60" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+<circle cx="64" cy="163" r="14" fill="#ffffff" opacity=".95"/><path d="M57 163 l5 5 l9 -10" stroke="#2a9d4a" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="164" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Gentle production keeps</text><text x="92" y="186" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff">nutrients</text><circle cx="64" cy="227" r="14" fill="#ffffff" opacity=".95"/><path d="M57 227 l5 5 l9 -10" stroke="#2a9d4a" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="228" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Suitable for community</text><text x="92" y="250" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff">tanks</text><circle cx="64" cy="291" r="14" fill="#ffffff" opacity=".95"/><path d="M57 291 l5 5 l9 -10" stroke="#2a9d4a" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="296" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Low water pollution</text>
+</svg>

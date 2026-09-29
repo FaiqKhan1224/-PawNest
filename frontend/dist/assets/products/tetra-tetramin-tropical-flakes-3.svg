@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+<defs>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".38"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/><stop offset=".75" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".2"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7ebf3"/><stop offset=".45" stop-color="#ffffff"/><stop offset="1" stop-color="#b9c0d0"/></linearGradient>
+
+</defs>
+
+<rect x="24" y="24" width="352" height="340" rx="28" fill="#ffffff" stroke="#f3d4e3" stroke-width="3"/>
+<rect x="24" y="24" width="352" height="70" rx="28" fill="#fde6ee"/><rect x="24" y="70" width="352" height="24" fill="#fde6ee"/>
+<g transform="translate(44 38) scale(0.688)"><path d="M46 32 L61 19 L61 45 Z" fill="#0a4d9c" opacity=".8"/><ellipse cx="30" cy="32" rx="20" ry="13" fill="#0a4d9c"/><path d="M22 20 q8 -9 17 0 z" fill="#0a4d9c" opacity=".8"/><circle cx="19" cy="29" r="3.2" fill="#fff"/><circle cx="18.4" cy="29" r="1.7" fill="#1b1d4b"/><path d="M30 25 q4 7 0 14 M37 26 q4 6 0 12" stroke="#fff" opacity=".55" fill="none" stroke-width="1.5" stroke-linecap="round"/></g>
+<text x="96" y="66" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="20.0" font-weight="800" fill="#1b1d4b" text-anchor="start" >Product details</text>
+<text x="52" y="150" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8a8fb0">Brand</text>
+<text x="348" y="150" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="16.0" font-weight="700" fill="#1b1d4b" text-anchor="end" >Tetra</text>
+<path d="M52 164 H348" stroke="#ece5f5" stroke-width="2"/><text x="52" y="194" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8a8fb0">For</text>
+<text x="348" y="194" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="16.0" font-weight="700" fill="#1b1d4b" text-anchor="end" >Fish</text>
+<path d="M52 208 H348" stroke="#ece5f5" stroke-width="2"/><text x="52" y="238" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8a8fb0">Age</text>
+<text x="348" y="238" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="16.0" font-weight="700" fill="#1b1d4b" text-anchor="end" >All ages</text>
+<path d="M52 252 H348" stroke="#ece5f5" stroke-width="2"/><text x="52" y="282" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8a8fb0">Pack size</text>
+<text x="348" y="282" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="16.0" font-weight="700" fill="#1b1d4b" text-anchor="end" >100 g</text>
+<path d="M52 296 H348" stroke="#ece5f5" stroke-width="2"/><text x="52" y="326" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#8a8fb0">Suits</text>
+<text x="348" y="326" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="16.0" font-weight="700" fill="#1b1d4b" text-anchor="end" >Tropical fish</text>
+<path d="M52 340 H348" stroke="#ece5f5" stroke-width="2"/>
+</svg>
