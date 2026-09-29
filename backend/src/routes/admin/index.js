@@ -20,5 +20,10 @@ router.post('/upload', upload.single('image'), (req, res) => {
   if (!req.file) throw new HttpError(400, 'Choose an image to upload.');
   res.status(201).json({ url: `/uploads/${req.file.filename}` });
 });
+router.post('/upload', upload.single('image'), asyncHandler(async (req, res) => {
+  if (!req.file) throw new HttpError(400, 'Choose an image to upload.');
+  const result = await upload.toCloud(req.file.buffer);
+  res.status(201).json({ url: result.secure_url });
+}));
 
 module.exports = router;

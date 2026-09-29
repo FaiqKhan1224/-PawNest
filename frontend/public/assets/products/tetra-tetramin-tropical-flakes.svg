@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+<defs>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".38"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/><stop offset=".75" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".2"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7ebf3"/><stop offset=".45" stop-color="#ffffff"/><stop offset="1" stop-color="#b9c0d0"/></linearGradient>
+
+</defs>
+<ellipse cx="200" cy="356" rx="118" ry="13" fill="#1b1d4b" opacity=".13"/>
+<ellipse cx="200" cy="146" rx="84" ry="14" fill="#06336b"/>
+<rect x="116" y="146" width="168" height="196" rx="8" fill="#0a4d9c"/>
+<ellipse cx="200" cy="342" rx="84" ry="14" fill="#0a4d9c"/>
+<rect x="110" y="98" width="180" height="52" rx="10" fill="#ffce1f"/>
+<ellipse cx="200" cy="98" rx="90" ry="12" fill="#ffce1f"/>
+<text x="200" y="132" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="24.0" font-weight="800" fill="#1b1d4b" text-anchor="middle" >TETRA</text>
+<circle cx="200" cy="222" r="38" fill="#fff" opacity=".96"/>
+<g transform="translate(173 196) scale(0.844)"><path d="M46 32 L61 19 L61 45 Z" fill="#0a4d9c" opacity=".8"/><ellipse cx="30" cy="32" rx="20" ry="13" fill="#0a4d9c"/><path d="M22 20 q8 -9 17 0 z" fill="#0a4d9c" opacity=".8"/><circle cx="19" cy="29" r="3.2" fill="#fff"/><circle cx="18.4" cy="29" r="1.7" fill="#1b1d4b"/><path d="M30 25 q4 7 0 14 M37 26 q4 6 0 12" stroke="#fff" opacity=".55" fill="none" stroke-width="1.5" stroke-linecap="round"/></g>
+<text x="200" y="292" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="20.0" font-weight="800" fill="#ffffff" text-anchor="middle" >TETRAMIN</text>
+<text x="200" y="318" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-size="15.0" font-weight="600" fill="#ffffff" text-anchor="middle" opacity=".9">100 g</text>
+<rect x="116" y="146" width="168" height="196" rx="8" fill="url(#sheen)"/>
+</svg>
