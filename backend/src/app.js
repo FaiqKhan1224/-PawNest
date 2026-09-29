@@ -14,6 +14,14 @@ app.use(helmet({ contentSecurityPolicy: false, crossOriginResourcePolicy: { poli
 app.use(cors({ origin: env.isProd ? true : [env.clientUrl, 'http://localhost:5173', 'http://127.0.0.1:5173'], credentials: true }));
 app.use(express.json({ limit: '1mb' }));
 
+app.get('/', (req, res) => {
+  res.json({
+    ok: true,
+    name: 'PawNest API',
+    message: 'PawNest backend is running',
+    health: '/api/health'
+  });
+});
 app.use('/uploads', express.static(env.paths.uploads, { maxAge: '7d' }));
 app.use('/assets', express.static(env.paths.publicDir, { maxAge: '7d' }));
 
